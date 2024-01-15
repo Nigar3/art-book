@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">art_book</string>
+    <string name="save">SAVE</string>
+    <string name="todo">TODO</string>
+    <string name="select_image">SELECT IMAGE</string>
+    <string name="year">Year</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+</resources>
